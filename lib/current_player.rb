@@ -19,6 +19,3 @@ def current_player(count)
     return "O"
   end # end if
 end # end current player
-
-  
-
